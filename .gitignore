@@ -1,0 +1,4 @@
+.idea
+docker/.data
+dicomweb-pacs-api
+dicomweb-pacs-front

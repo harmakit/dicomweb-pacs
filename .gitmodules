@@ -1,0 +1,6 @@
+[submodule "dicomweb-pacs-api"]
+	path = dicomweb-pacs-api
+	url = https://github.com/harmakit/dicomweb-pacs-api
+[submodule "dicomweb-pacs-front"]
+	path = dicomweb-pacs-front
+	url = https://github.com/harmakit/dicomweb-pacs-front
