@@ -21,7 +21,7 @@ $ ./gitmodules.sh
 
 ### Run Docker Compose containers
 ```shell  
-$ docker compose up
+$ docker compose -f docker/docker-compose.yml up
 ```  
 
 ### Run database migrations
