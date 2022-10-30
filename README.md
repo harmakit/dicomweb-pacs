@@ -16,7 +16,7 @@ Find out how to install it for your machine on [official Docker page](https://do
 ```shell
 $ git clone https://github.com/harmakit/dicomweb-pacs.git
 $ cd dicomweb-pacs
-$ git submodule update --init
+$ ./gitmodules.sh
 ```  
 
 ### Run Docker Compose containers
