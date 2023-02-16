@@ -58,5 +58,5 @@ $ git submodule update --remote --merge
 ### Series view
 ![Series view](https://raw.githubusercontent.com/harmakit/dicomweb-pacs/main/readme/image/series_view.png)
 
-### Instances view
-![Instances view](https://raw.githubusercontent.com/harmakit/dicomweb-pacs/main/readme/image/instances_view.png)
+### Instance view
+![Instances view](https://raw.githubusercontent.com/harmakit/dicomweb-pacs/main/readme/image/instance_view.png)
