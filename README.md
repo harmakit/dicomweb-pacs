@@ -40,4 +40,23 @@ Open [http://localhost:49200/](http://localhost:49200/) to access the app
 ## To receive updates run
 ```shell
 $ git submodule update --remote --merge
-```
+```  
+
+--- 
+
+## Screenshots
+
+### Home screen
+![Home screen](https://raw.githubusercontent.com/harmakit/dicomweb-pacs/main/readme/image/home.png)
+
+### Studies list
+![Studies list](https://raw.githubusercontent.com/harmakit/dicomweb-pacs/main/readme/image/studies.png)
+
+### Study -> Series list
+![Study -> Series list](https://raw.githubusercontent.com/harmakit/dicomweb-pacs/main/readme/image/series.png)
+
+### Series view
+![Series view](https://raw.githubusercontent.com/harmakit/dicomweb-pacs/main/readme/image/series_view.png)
+
+### Instances view
+![Instances view](https://raw.githubusercontent.com/harmakit/dicomweb-pacs/main/readme/image/instances_view.png)
